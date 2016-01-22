@@ -7,10 +7,10 @@ https://gorails.com/setup/ubuntu/14.04
 
 The version's used are:
 
-rails version : Rails 4.2.4
-ruby: Ruby 2.2.3p173
-nodejs: v4.2.5
-sublime text 3
+- rails version : Rails 4.2.4
+- ruby: Ruby 2.2.3p173
+- nodejs: v4.2.5
+- sublime text 3
 
 First going to you workspace and create your blog:
 
