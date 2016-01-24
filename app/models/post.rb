@@ -9,4 +9,5 @@ class Post < ActiveRecord::Base
 
     #every post must have a body and title
     validates_presence_of :body, :title
+    has_many :comments
 end
